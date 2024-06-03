@@ -1,0 +1,6 @@
+@HistoricalNewsUpdate.Server_HostAddress = http://localhost:5101
+
+GET {{HistoricalNewsUpdate.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
